@@ -1,0 +1,23 @@
+{
+  "name": "paxcel-node",
+  "version": "1.0.0",
+  "scripts": {
+    "preinstall": "npm install -g yo"
+  },
+  "author": {
+    "name": "Manish Garg",
+    "email": "manish.garg@paxcel.net"
+  },
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "commander": "^2.8.1",
+    "yo": "^1.4.6"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "paxcel": "lib/paxcel.js"
+  },
+  "engines": {
+    "node": ">= 0.12.x"
+  }
+}
