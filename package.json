@@ -1,0 +1,23 @@
+{
+  "name": "paxcel-node-new",
+  "version": "0.0.0",
+  "author": {
+    "name": "Manish Garg",
+    "email": "manish.garg@paxcel.net"
+  },
+  "dependencies": {
+    "commander": "^2.8.1",
+    "ejs": "^2.3.1",
+    "inquirer": "^0.8.4",
+    "mem-fs": "^1.1.0",
+    "mem-fs-editor": "^2.0.0",
+    "yeoman-generator": "^0.19.2"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "pax": "lib/paxcel.js"
+  },
+  "engines": {
+    "node": ">= 0.12.x"
+  }
+}
