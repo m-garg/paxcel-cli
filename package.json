@@ -1,6 +1,11 @@
 {
   "name": "paxcel-node-new",
   "version": "0.0.0",
+  "name": "paxcel-node",
+  "version": "1.0.2",
+   "scripts": {
+    "preinstall": "npm install -g yo generator-paxcel"
+  },
   "author": {
     "name": "Manish Garg",
     "email": "manish.garg@paxcel.net"
@@ -16,6 +21,11 @@
   "preferGlobal": "true",
   "bin": {
     "pax": "lib/paxcel.js"
+    "commander": "^2.8.1"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "paxcel": "lib/paxcel.js"
   },
   "engines": {
     "node": ">= 0.12.x"
