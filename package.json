@@ -6,7 +6,6 @@
     "email": "manish.garg@paxcel.net"
   },
   "dependencies": {
-    "chalk": "^1.0.0",
     "commander": "^2.8.1"
   },
   "preferGlobal": "true",
