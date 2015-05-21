@@ -5,6 +5,12 @@
     "name": "Manish Garg",
     "email": "manish.garg@paxcel.net"
   },
+  "description" : "Commande line app for Paxcel Technologies." ,
+  "repository" :
+      { 
+        "type" : "git",
+        "url" : "https://github.com/manishGarg57/paxcel-cli"
+      },
   "dependencies": {
     "commander": "^2.8.1"
   },
