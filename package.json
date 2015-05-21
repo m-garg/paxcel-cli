@@ -14,7 +14,7 @@
   "dependencies": {
     "commander": "^2.8.1"
   },
-  "preferGlobal": "true",
+  "preferGlobal": true,
   "bin": {
     "paxcel": "lib/paxcel.js"
   },
