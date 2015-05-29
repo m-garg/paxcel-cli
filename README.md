@@ -1,17 +1,23 @@
-# Paxcel CLI 
+# Paxcel CMS CLI 
 
-Command Line Interface for Paxcel-Jekyll tool.
+Command Line Interface for creating Jekyll websites and hosting on Github.
+
+##Pre-requisites
+Make sure that Node.js and git are installed on your system.
+
+##Installation
+`npm install -g paxcel-cms-cli`
 
 ## Commands
 
- - `paxcel create [type]`
+ - `paxcms create [type]`
 Create new website. Possible arguments: website, blog, docs.
 Default:website
 
- - `paxcel add`
+ - `paxcms add`
 Add new page, post, layout, section or team member.
 
- - `paxcel delete`
+ - `paxcms delete`
 Delete page, post, layout, section or team member.
 
 ## Options
