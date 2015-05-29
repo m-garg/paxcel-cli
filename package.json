@@ -1,6 +1,6 @@
 {
     "name": "paxcel-cms-cli",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "author": {
         "name": "Manish Garg",
         "email": "manish.garg@paxcel.net"
@@ -16,7 +16,7 @@
     },
     "preferGlobal": true,
     "bin": {
-        "paxcms": "lib/paxcel.js"
+        "paxcms": "lib/paxcms.js"
     },
     "engines": {
         "node": ">= 0.12.x"
