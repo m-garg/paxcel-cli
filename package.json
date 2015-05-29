@@ -1,5 +1,5 @@
 {
-    "name": "paxcel-cli",
+    "name": "paxcel-cms-cli",
     "version": "0.0.1",
     "author": {
         "name": "Manish Garg",
@@ -15,7 +15,7 @@
     },
     "preferGlobal": true,
     "bin": {
-        "paxcel": "lib/paxcel.js"
+        "paxcms": "lib/paxcel.js"
     },
     "engines": {
         "node": ">= 0.12.x"
