@@ -2,10 +2,10 @@
 
 Command Line Interface for creating Jekyll websites and hosting on Github.
 
-##Pre-requisites
+## Pre-requisites
 Make sure that Node.js and git are installed on your system.
 
-##Installation
+## Installation
 `npm install -g paxcel-cms-cli`
 
 ## Commands
