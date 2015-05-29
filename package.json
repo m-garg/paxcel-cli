@@ -11,7 +11,8 @@
         "url": "https://github.com/manishGarg57/paxcel-cli"
     },
     "dependencies": {
-        "commander": "^2.8.1"
+        "commander": "^2.8.1",
+		"paxcel-cms-core": "*"
     },
     "preferGlobal": true,
     "bin": {
